@@ -6,5 +6,11 @@ int main(int argc, char **argv) {
 
 void test(void)
 {
- int a, b;
+	int a, b;
+}
+
+void fun(void)
+{
+	printf("fun");
+	printf("fun1");
 }
